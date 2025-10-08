@@ -31,9 +31,11 @@ We agree to respond to message within 24 hours, however if conflicts are known a
 - Missing a deadline; letting us know how much extra time is required
 - Absence for any specific reason (lectures and tutorials)
 - Asking for help/guidance instead of struggling on our own
-- 
 
 * Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
+
+- Listening and asking for everyones opinions (making sure no one feels left out)
+- Update those absent on what was worked on or discussed
 
 ---
 
