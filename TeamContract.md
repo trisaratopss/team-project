@@ -14,18 +14,19 @@ This contract sets out shared expectations and commitments for how our team will
 - We will respond to messages within 24 hours
   - If any conflicts are known ahead of time we will inform our teammates about how long we will be unavailable for
 
-* What things should a teammate notify you about? (Examples: if they think they won't be able to meet a deadline, if they have to miss lecture, etc.)
-
 - We will let each other know if we will miss a deadline
   - We will let each other know how much extra time we will require
     - It has to be a reasonable time period (e.g. not an extra 2 weeks)
+
 - We will let eahc other know about an absences; it has to be for any specific reason (both lectures and tutorials)
+
 - We will ask for help/guidance when required
 
 * Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
 
-- Listening and asking for everyones opinions (making sure no one feels left out)
-- Update those absent on what was worked on or discussed
+- We will listen and ask for other opinions(making sure no one feels left out)
+
+- We will update those who were absent on what was worked on or discussed
 
 ---
 
