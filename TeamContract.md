@@ -35,6 +35,12 @@ This contract sets out shared expectations and commitments for how our team will
 
 ---
 
+### Work Quality
+
+- ...
+
+---
+
 ## Decision Making
 
 - Discuss conflicts where possible to synthesize ideas; if this is not possible or conflict continues, we go to majority vote
