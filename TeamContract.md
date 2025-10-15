@@ -49,17 +49,25 @@ We agree to respond to message within 24 hours, however if conflicts are known a
 ## Decision Making
 
 * How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
+- Discuss conflicts where possibke to synthesize ideas; if this is not possible or conflict continues, we go to majority vote
 
 ---
 ## Conflict resolution
 
 * How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
+- if a team member notices any issues, they will bring it up to the group and explain their point of view
+- the team member will then provide some ideas on how we can resolve this issue
+- if the issue persists it will be noted in the peer feedback form and consult a TA or course instructor for some ideas on how we could go around the issue
+- if the issue is not able to be resolved after all the prior steps . . .
 
 ---
 
 ## Accountability
 
 * Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
+- Completing their task within the mock due date set
+- Updating team members on any delays or issues that arise when completing their part
+- Asking for help when required rather than staying silent about any issues
 
 ---
 
