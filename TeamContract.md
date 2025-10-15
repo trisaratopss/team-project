@@ -50,6 +50,7 @@ We agree to respond to message within 24 hours, however if conflicts are known a
 
 * How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
 - Discuss conflicts where possibke to synthesize ideas; if this is not possible or conflict continues, we go to majority vote
+- Or if an idea is not feasible within the time frame, we will proceed with the other idea
 
 ---
 ## Conflict resolution
