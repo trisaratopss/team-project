@@ -14,11 +14,10 @@ This contract sets out shared expectations and commitments for how our team will
 - We will respond to messages within 24 hours
   - If any conflicts are known ahead of time we will inform our teammates about how long we will be unavailable for
 
-- We will let each other know if we will miss a deadline
-  - We will let each other know how much extra time we will require
+- We will let each other know if we anticipate missing a deadline and how much extra time we will require
     - It has to be a reasonable time period (e.g. not an extra 2 weeks)
 
-- We will let eahc other know about an absences; it has to be for any specific reason (both lectures and tutorials)
+- We will let each other know about an absences; it has to be for any specific reason (both lectures and tutorials)
 
 - We will ask for help/guidance when required
 
@@ -37,7 +36,8 @@ This contract sets out shared expectations and commitments for how our team will
 
 ### Work Quality
 
-- ...
+- Try our best to adhere to the principles discussed in class when writing code.
+- Implement all functionality that your code should be responsible for (more functionality can be requested and implemented later but it's good to be comprehensive)
 
 ---
 
@@ -45,18 +45,18 @@ This contract sets out shared expectations and commitments for how our team will
 
 - Discuss conflicts where possible to synthesize ideas; if this is not possible or conflict continues, we go to majority vote
 
-- Or if an idea is not feasible within the time frame, we will proceed with the other idea
+- If an idea is not feasible within the time frame, we will proceed with the other idea
 
 ---
 ## Conflict resolution
 
-- if a team member notices any issues, they will bring it up to the group and explain their point of view
+- If a team member notices any issues, they will bring it up to the group and explain their point of view
 
-- the team member will then provide some ideas on how we can resolve this issue
+- The team member will then provide some ideas on how we can resolve this issue
 
-- if the issue persists it will be noted in the peer feedback form and consult a TA or course instructor for some ideas on how we could go around the issue
+- If the issue persists it will be noted in the peer feedback form and consult a TA or course instructor for some ideas on how we could go around the issue
 
-- if the issue is not able to be resolved after all the prior steps . . .
+- If the issue is not able to be resolved after all the prior steps, we will use the steps outlined in decision making.
 
 ---
 
@@ -68,12 +68,11 @@ This contract sets out shared expectations and commitments for how our team will
 
 - Asking for help when required rather than staying silent about any issues
 
----
 
 ---
 
 By signing below, we acknowledge that we have read, discussed, and agreed to these terms. We understand that this contract is binding for the duration of the course and may be revised with the agreement of all team members.
 
 Team Member Signatures:
-
+Le Hoang Minh (Teppi)
 (type names here)
