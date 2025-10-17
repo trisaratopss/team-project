@@ -74,5 +74,4 @@ This contract sets out shared expectations and commitments for how our team will
 By signing below, we acknowledge that we have read, discussed, and agreed to these terms. We understand that this contract is binding for the duration of the course and may be revised with the agreement of all team members.
 
 Team Member Signatures:
-Le Hoang Minh (Teppi), Brandon Tai, Sara Kopilovic, Zhihan Wang (Jenny), Dimural Murat
-(type names here)
+Le Hoang Minh (Teppi), Brandon Tai, Sara Kopilovic, Zhihan Wang (Jenny), Dimural Murat, Anvi Singh
